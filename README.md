@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Nada Makram from Egypt<br><br>- 🔭 I’m working as MLOps Engineer<br>- 📚 I'm currently doing my Master's in AI at Queen's University.<br>- ⚡ In my free time I like to hike, travel and read.</p>
+<p align="left">I'm Nada Makram from Egypt<br><br>- 🔭 I’m working as an MLOps Engineer<br>- 📚 I'm currently doing my Master's in AI at Queen's University.<br>- ⚡ In my free time I like to hike, travel and read.</p>
 
 ###
 
